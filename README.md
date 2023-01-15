@@ -1,7 +1,7 @@
 # chefcrismota
 Divulgação!
 
->>Tecnoçogias
+>>Tecnologias
 - HTML
 - CSS
 
