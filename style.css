@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ .logo img {
+  max-width: 60rem;
+  min-width: 20rem;
+  width: 21rem;
+  height: 16rem;
+  text-align: center;
+}
+
+main {
+  text-align: center;
+  margin: auto;
+  background-color: rgb(236, 236, 160);
+  max-width: 60rem;
+  min-width: 20rem;
+  width: 21rem;
+  height: 135rem;
+}
+
+h3 {
+  color: rgb(206, 60, 60);
+}
+
+p {
+  color:brown;
+  font-size: 0.9rem;
+}
+
+.abertura img {
+  padding-top: 0.5rem;
+  width: 12rem;
+}
+
+p {
+  padding-top: 0.3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.hells img {
+  width: 12rem;
+  padding-top: 0.5rem;
+}
+
+.paris img {
+  width: 12rem;
+  padding-top: 0.5rem;
+}
+
+iframe {
+  padding-top: 0.5rem;
+  width: 14rem;
+  height: 10rem;
+}
+
+.pratos img {
+  padding-top: 0.5rem;
+  width: 19rem;
+  height: 20rem;
+}
+
+.massa img {
+  padding-top: 0.8rem;
+  width: 16rem;
+}
